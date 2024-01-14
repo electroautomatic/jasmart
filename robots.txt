@@ -1,0 +1,2 @@
+Disallow:https://jasmart.ru/index.html
+Sitemap: https://jasmart.ru/sitemap.xml
